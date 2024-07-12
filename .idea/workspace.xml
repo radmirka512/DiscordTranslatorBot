@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c899674a-3a10-4237-b283-15acf6980844" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="c899674a-3a10-4237-b283-15acf6980844" name="Changes" comment="1232">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "radmirka512"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/radmirka512/DiscordTranslatorBot.git",
+    "accountId": "62d0237a-7734-4d77-b04a-63cf531e1e88"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 0
@@ -28,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "X:/FURRY_MINECRAFT_OTHER_STUFF/DiscordJavaBots/TranslatorBot/src/main/java/com/jemfillex/translatorbot/Main.java"
@@ -42,7 +56,29 @@
       <option name="presentableId" value="Default" />
       <updated>1720736841285</updated>
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <option name="closed" value="true" />
+      <created>1720736857501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720736857501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1232">
+      <option name="closed" value="true" />
+      <created>1720736908686</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720736908686</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <MESSAGE value="1232" />
+    <option name="LAST_COMMIT_MESSAGE" value="1232" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
