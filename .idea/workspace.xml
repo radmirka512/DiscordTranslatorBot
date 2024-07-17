@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c899674a-3a10-4237-b283-15acf6980844" name="Changes" comment="1232">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jemfillex/translatorbot/TranslatorBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jemfillex/translatorbot/listeners/EventListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jemfillex/translatorbot/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jemfillex/translatorbot/TranslatorBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jemfillex/translatorbot/TranslatorBot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +34,12 @@
     &quot;assignee&quot;: &quot;radmirka512&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/radmirka512/DiscordTranslatorBot.git&quot;,
-    &quot;accountId&quot;: &quot;030b685c-6c5c-4d15-bd28-01959de6dd83&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/radmirka512/DiscordTranslatorBot.git",
+    "accountId": "62d0237a-7734-4d77-b04a-63cf531e1e88"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/com/jemfillex/translatorbot/TranslatorBot.java" root0="SKIP_INSPECTION" />
   </component>
@@ -58,10 +61,32 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "X:/FURRY_MINECRAFT_OTHER_STUFF/MinecraftMods",
     "onboarding.tips.debug.path": "X:/FURRY_MINECRAFT_OTHER_STUFF/DiscordJavaBots/TranslatorBot/src/main/java/com/jemfillex/translatorbot/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="TranslatorBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jemfillex.translatorbot.TranslatorBot" />
+      <module name="TranslatorBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jemfillex.translatorbot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TranslatorBot" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
