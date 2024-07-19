@@ -1,5 +1,6 @@
 package com.jemfillex.translatorbot;
 
+import com.jemfillex.translatorbot.listeners.EventListener;
 import io.github.cdimascio.dotenv.Dotenv;
 import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.Activity;
@@ -21,6 +22,11 @@ public class TranslatorBot {
         builder.setStatus(OnlineStatus.ONLINE);
         builder.setActivity(Activity.playing("gAycraft"));
         shardManager = builder.build();
+
+        shardManager.addEventListener(new EventListener());
+
+
+
     }
 
     public  Dotenv getConfig() {
